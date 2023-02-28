@@ -1,0 +1,94 @@
+Ability_ID,Ability1,Ability2,Hidden_Ability
+1,Overgrow,None,Chlorophyll
+2,Blaze,None,Solar Power
+3,Torrent,None,Rain Dish
+4,Shield Dust,None,Run Away
+5,Shed Skin,None,None
+6,Compound Eyes,None,Tinted Lens
+7,Swarm,None,Sniper
+8,Keen Eye,Tangled Feet,Big Pecks
+9,Run Away,Guts,Hustle
+10,Keen Eye,None,Sniper
+11,Intimidate,Shed Skin,Unnerve
+12,Static,None,Lighting Rod
+13,Sand Veil,None,Sand Rush
+14,Poison Point,Rivalry,Hustle
+15,Poison Point,Rivalry,Sheer Force
+16,Cute Charm,Magic Guard,Friend Guard
+17,Cute Charm,Magic Guard,Unaware
+18,Flash Fire,None,Drought
+19,Cute Charm,Competitive,Frisk
+20,Inner Focus,None,Infiltrator
+21,Chlorophyll,None,Run Away
+22,Chlorophyll,None,Stench
+23,Chlorophyll,None,Effect Spore
+24,Effect Spore,Dry Skin,Damp
+25,Compound Eyes,Tinted Lens,Run Away
+26,Shield Dust,Tinted Lens,Wounder Skin
+27,Sand Veil,Arena Trap,Sand Force
+28,Pickup,Technician,Unnerve
+29,Limber,Technician,Unnerve
+30,Damp,Cloud Nine,Swift Swim
+31,Vital Spirit,Anger Point,Defiant
+32,Intimidate,Flash Fire,Justified
+33,Water Absorb,Damp,Swift Swim
+34,Synchronize,Inner Focus,Magic Guard
+35,Guts,No Guard,Steadfast
+36,Chlorophyll,None,Gluttony
+37,Clear Body,Liquid Ooze,Rain Dish
+38,Rock Head,Sturdy,Sand Veil
+39,Run Away,Flash Fire,Flame Body
+40,Oblivious,Own Tempo,Regenerator
+41,Magnet Pull,Sturdy,Analytic
+42,Keen Eye,Inner Focus,Scrappy
+43,Run Away,Early Bird,Tangled Feet
+44,Thick Fat,Hydration,Ice Body
+45,Stench,Sticky Hold,Poison Touch
+46,Shell Armor,Skill Link,Overcoat
+47,Levitate,None,None
+48,Cursed Body,None,None
+49,Rock Head,Sturdy,Weak Armor
+50,Insomnia,Forewarn,Inner Focus
+51,Hyper Cutter,Shell Armor,Sheer Force
+52,Soundproof,Static,Aftermath
+53,Chlorophyll,None,Harvest
+54,Rock Head,Lighting Rod,Battle Armor
+55,Limber,Reckless,Unburden
+56,Keen Eye,Iron Fist,Inner Focus
+57,Own Tempo,Oblivious,Cloud Nine
+58,Levitate,Neutralizing Gas,Stench
+59,Lighting Rod,Rock Head,Reckless
+60,Natural Cure,Serene Grace,Healer
+61,Chlorophyll,Leaf Guard,Regenerator
+62,Early Bird,Scrappy,Inner Focus
+63,Swift Swim,Sniper,Damp
+64,Poison Point,Sniper,Damp
+65,Swift Swim,Water Veil,Lighting Rod
+66,Illuminate,Natural Cure,Analytic
+67,Soundproof,Filter,Technician
+68,Swarm,Technician,Steadfast
+69,Oblivious,Forewarn,Dry Skin
+70,Static,None,Vital Spirit
+71,Flame Body,None,Vital Spirit
+72,Hyper Cutter,Mold Breaker,Moxie
+73,Intimidate,Anger Point,Sheer Force
+74,Swift Swim,None,Rattled
+75,Intimidate,None,Moxie
+76,Water Absorb,Shell Armor,Hydration
+77,Limber,None,Imposter
+78,Run Away,Adaptability,Anticipation
+79,Water Absorb,None,Hydration
+80,Volt Absorb,None,Quick Feet
+81,Flash Fire,None,Guts
+82,Trace,Download,Analytic
+83,Swift Swim,Shell Armor,Weak Armor
+84,Swift Swim,Battle Armor,Weak Armor
+85,Rock Head,Pressure,Unnerve
+86,Immunity,Thick Fat,Gluttony
+87,Pressure,None,Snow Cloak
+88,Pressure,None,Static
+89,Pressure,None,Flame Body
+90,Shed Skin,None,Marvel Scale
+91,Inner Focus,None,Multiscale
+92,Pressure,None,Unnerve
+93,Synchronize,None,None

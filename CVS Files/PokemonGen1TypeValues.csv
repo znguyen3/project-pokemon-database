@@ -1,0 +1,38 @@
+TYPE_ID,Weakness,Strength, Type1, Type2
+1,Flying Fire Psychic Ice,Fighting Water Electric Fairy,Grass,Poison
+2,Ground Rock Water,Bug Steel Fire Grass Ice Fairy,Fire,None
+3,Rock Water Electric,Fighting Steel Fire Fairy Bug Grass Ground,Fire,Flying
+4,Grass Electirc,Steel Fire Water Ice,Water,None
+5,Flying Rock Fire,Fighting Ground Grass,Bug,None
+6,Rock Flying Fire Electric Ice,Bug Fighting Grass Ground,Bug,Flying
+7,Flying Rock Fire Psychic,Poison Bug Fairy Fighting Grass,Bug,Poison
+8,Rock Electric Ice,Bug Grass Ground Ghost,Normal,Flying
+9,Fighting,Ghost,Normal,None
+10,Ground Psychic,Fighting Poison Bug Grass Fairy,Poison,None
+11,Ground,Flying Steel Electric,Electric,None
+12,Water Grass Ice,Poison Rock Electric,Ground,None
+13,Ground Water Psychic Ice,Fighting Rock Bug Fairy Poison Electric,Poison,Ground
+14,Poison Steel,Fighting Bug Dark Dragon,Fairy,None
+15,Poison Steel,Bug Dark Ghost Dragon,Normal,Fairy
+16,Rock Electric Pyschic Ice,Poison Fairy Fighting Bug Grass Ground,Poison,Flying
+17,Flying Fire Poison Rock Bug Ice,Fighting Water Electric Ground Grass,Bug,Grass
+18,Flying Psychic Fairy,Rock Bug Dark,Fighting,None
+19,Flying Grass Electric Psychic Fairy,Rock Bug Steel Fire Water Ice Dark,Water,Fighting
+20,Bug Ghost Dark,Fighting Psychic,Psychic,None
+21,Ground Electric Psychic,Fighting Poison Bug Steel Fire Water Ice Fairy,Water,Poison
+22,Water Grass Fighting Ground Steel Ice,Normal Flying Rock Fire Poison Electric,Rock,Ground
+23,Bug Ghost Grass Electric Dark,Fighting Steel Fire Water Psychic Ice,Water,Psychic
+24,Ground Fighting Fire,Normal Rock Bug Grass Electric Psychic Ice Dragon Fairy Flying Steel Poison,Electric,Steel
+25,Fighting Rock Grass Electric,Water Ice,Water,Ice
+26,Ground Ghost Psychic Dark,Grass Fairy Poison Bug Normal Fighting,Ghost,Poison
+27,Bug Flying Poison Ghost Fire Ice Dark,Fighting Ground Water Grass Electric Psychic,Grass,Psychic
+28,Flying Poison Bug Fire Ice,Ground Water Grass Electric,Grass,None
+29,Poison Ghost Steel,Psychic Fighting Dragon,Psychic,Fairy
+30,Rock Bug Ghost Steel Fire Dark,Psychic Ice,Ice,Psychic
+31,Electric Rock,Fighting Bug Steel Fire Water Ground,Water,Flying
+32,Grass Fighting Ground Electric,Normal Flying Poison Ice Fire,Rock,Water
+33,Rock Steel Water Electric Ice,Normal Flying Poison Bug Fire Ground,Rock,Flying
+34,Rock Steel Fire Electric,Bug Grass Ground,Ice,Flying
+35,Rock Ice,Fighting Flying Bug Steel Grass Ground,Electric,Flying
+36,Ice Dragon Fairy,Fire Water Grass Electric,Dragon,None
+37,Ice Rock Dragon Fairy,Fighting Bug Fire Water Grass Ground,Dragon,Flying
